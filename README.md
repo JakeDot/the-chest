@@ -6,6 +6,17 @@ A reusable security-first template for building enterprise-grade applications wi
 
 ---
 
+## ⚓ THE OATH OF THE FORTRESS
+
+Every builder, defender, and contributor who uses The Fortress swears allegiance to our core principles.
+
+**Read the full formal oath**: [**OATH.md**](./OATH.md)
+
+> *"In the digital realm where code is law and security is life, I swear to defend this fortress against all threats. I commit to grow the code with purpose, not haste. I pledge to lead with vision, not ego. I honor the crew—from Captain to Commander—and serve the users whose trust we have been given. So help me, the CHEST."*
+
+---
+
+
 ## 🎯 What Is The Fortress?
 
 A complete IT security hardening framework covering:
